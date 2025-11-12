@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-
+```
 <html>
     <body>
         <h1 align="center">
@@ -131,7 +131,7 @@ Execute the programs and publish them.
     </h3>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 
